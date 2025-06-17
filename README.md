@@ -5,17 +5,17 @@ Simulated text-based coffee machine built in Python.
 ## Usage
 You can use the following commands to interact with the coffee machine.
 
-off: stops the program
+**off**: stops the program
 
-espresso: order an espressor
+**espresso**: order an espresso
 
-latte: order a latte
+**latte**: order a latte
 
-cappuccino: order a cappuccino
+**cappuccino**: order a cappuccino
 
-report: prints a report of the resources in the coffee machine
+**report**: prints a report of the resources in the coffee machine
 
-refill: refill the resources in the coffee machine
+**refill**: refill the resources in the coffee machine
 
-cash out: clear out the money
+**cash out**: clear out the money
 
